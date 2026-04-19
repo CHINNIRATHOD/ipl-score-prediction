@@ -25,6 +25,4 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 
 ## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python main.py
+install project and run in jupyter notebook
