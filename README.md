@@ -21,6 +21,8 @@ Predict IPL match scores based on match conditions such as runs, wickets, overs,
 Python, Pandas, NumPy, Scikit-learn, Matplotlib  
 
 ## 📷 Output
+<img width="1215" height="265" alt="image" src="https://github.com/user-attachments/assets/d21e5c09-b9f3-4fd5-8779-2a000a0436d7" />
+
 
 ## 🚀 How to Run
 ```bash
